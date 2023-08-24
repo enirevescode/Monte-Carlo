@@ -1,0 +1,48 @@
+
+/* ****imageS grid de l'accueil "card_photo_accueil"*/
+
+.container-grid{  display: grid;
+  grid-template-columns: max-content;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "a b c"
+    "a b d"
+    ". . .";
+  width: 1440px;
+  height: 465px;
+  margin: auto;
+}
+
+.a { grid-area: a; }
+
+.b { grid-area: b; }
+
+.c { grid-area: c; }
+
+.d { grid-area: d; }
+
+//====================
+//grid spa
+//====================
+  .container-grid-spa{  display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+      gap: 0px 0px;
+      grid-auto-flow: row;
+      grid-template-areas:
+        "a b c"
+        "a b d"
+        ". . .";
+      width: 1450px;
+      height: 465px;
+    }
+    
+    .a { grid-area: a; }
+    
+    .b { grid-area: b; }
+    
+    .c { grid-area: c; }
+    
+    .d { grid-area: d; }

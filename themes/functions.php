@@ -72,7 +72,7 @@ register_nav_menus( array(
 
 add_action('after_setup_theme', 'sgtheme_setup');
 
-	/**
+/**
  * Register Custom Navigation Walker
  */
 function register_navwalker(){

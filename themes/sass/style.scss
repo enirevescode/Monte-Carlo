@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*!
+Theme Name: ArtDeco
+Theme URI: https://enirevescode.fr/
+Author: enireves
+Author URI: https://enirevescode.fr/
+Description: est 1 theme propriétaire pour 1 hotel 5* sur la côte
+Version: 1.0.0
+Text Domain: ArtDeco
+*/
+
+@import 'base/_fonts';
+
+@import "tools/_variables";
+@import "tools/_placeholders";
+
+
+@import "components/_booking";
+@import "components/_buttons";
+@import "components/_card";
+@import "components/_navbar";
+
+
+
+@import "section/_body";
+@import "section/_footer";
+@import "section/_forms";
+@import "section/_grid";
+@import "section/_header";
