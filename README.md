@@ -1,4 +1,6 @@
-﻿# Monte-Carlo
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+ # Monte-Carlo
 
 <code><img height="20" alt='Php' src='https://img.shields.io/badge/Php_8-100000?style=for-the-badge&logo=Php&logoColor=A0C7DE&labelColor=1E282C&color=5F92AD'/></code>
 
